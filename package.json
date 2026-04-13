@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-direct-assurance",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Direct Assurance depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-direct-assurance",
+    "bon-de-reduction-direct-assurance",
+    "coupon-direct-assurance",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/direct-assurance.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-direct-assurance.git"
+  }
+}
